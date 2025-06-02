@@ -37,7 +37,7 @@ const Hero = () => {
             <div className="mb-8 flex justify-center">
               <Avatar className="w-32 h-32 md:w-40 md:h-40 border-4 border-primary/20 shadow-2xl">
                 <AvatarImage 
-                  src="\Bharath_Profile_Photo.jpg" 
+                  src="https://i.postimg.cc/2SHq5ywq/Bharath-Profile-Photo.jpg" 
                   alt="D M Bharath"
                   className="object-cover"
                 />
